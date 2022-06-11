@@ -9,6 +9,7 @@
 project list
 
 ## Connect with me
-![flutter](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profileLinkedin-0c0c0c?style=for-the-badge&logo=linkedin&logoColor=47C5FB)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-0c0c0c?style=for-the-badge&logo=linkedin&logoColor=47C5FB)](https://www.linkedin.com/in/iomanetic/)
+[![Instagram](https://img.shields.io/badge/Instagram-0c0c0c?style=for-the-badge&logo=instagram&logoColor=47C5FB)](https://www.instagram.com/valiev.tyt/)
 
 laung
