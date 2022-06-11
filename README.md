@@ -18,4 +18,4 @@ project list
 [![C++](https://img.shields.io/badge/C++-0c0c0c?style=for-the-badge&logo=cplusplus&logoColor=blue)](https://en.cppreference.com/w)
 [![GIT](https://img.shields.io/badge/GIT-0c0c0c?style=for-the-badge&logo=git&logoColor=ed4956)](https://github.com/iomanetic)
 [![Linux](https://img.shields.io/badge/LINUX-0c0c0c?style=for-the-badge&logo=linux&logoColor=blue)](https://www.linux.org/)
-[![Bash](https://img.shields.io/badge/BASH-0c0c0c?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.linux.org/)
+[![Bash](https://img.shields.io/badge/BASH-0c0c0c?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
