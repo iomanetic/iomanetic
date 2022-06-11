@@ -16,7 +16,7 @@
 ## Languages
 [![K&R](https://img.shields.io/badge/K&R-0c0c0c?style=for-the-badge&logo=C&logoColor=0b65c2)](https://en.cppreference.com/w/c)
 [![C++](https://img.shields.io/badge/C++-0c0c0c?style=for-the-badge&logo=cplusplus&logoColor=blue)](https://en.cppreference.com/w)
-[![GIT](https://img.shields.io/badge/GIT-0c0c0c?style=for-the-badge&logo=git&logoColor=ed4956)](https://github.com/iomanetic)
+[![GIT](https://img.shields.io/badge/GIT-0c0c0c?style=for-the-badge&logo=git&logoColor=orange)](https://git-scm.com/)
 [![Linux](https://img.shields.io/badge/LINUX-0c0c0c?style=for-the-badge&logo=linux&logoColor=blue)](https://www.linux.org/)
 [![Bash](https://img.shields.io/badge/BASH-0c0c0c?style=for-the-badge&logo=gnometerminal&logoColor=white)](https://www.gnu.org/software/bash/)
 
