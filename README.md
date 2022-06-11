@@ -9,6 +9,6 @@
 project list
 
 ## Connect with me
-![flutter](https://img.shields.io/badge/Linkedin-0c0c0c?style=for-the-badge&logo=linkedin&logoColor=47C5FB)
+![flutter](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profileLinkedin-0c0c0c?style=for-the-badge&logo=linkedin&logoColor=47C5FB)
 
 laung
