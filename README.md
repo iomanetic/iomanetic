@@ -10,8 +10,8 @@
 - [minishell](https://github.com/iomanetic/Minishell "A simple shell, which repeat the work of bash")
 - [philosophers](https://github.com/iomanetic/Philosophers "This project shows how threads work")
 - [push_swap](https://github.com/iomanetic/push_swap "in the project we have to sort numbers using our commands")
-- [so_long](https://github.com/iomanetic/so_long "With minilibx library we have to make simple 2d game");
-- [minitalk](https://github.com/iomanetic/minitalk "With signals we have to make communication between client and server");
+- [so_long](https://github.com/iomanetic/so_long "With minilibx library we have to make simple 2d game")
+- [minitalk](https://github.com/iomanetic/minitalk "With signals we have to make communication between client and server")
 
 ## Languages
 [![K&R](https://img.shields.io/badge/K&R-0c0c0c?style=for-the-badge&logo=C&logoColor=0b65c2)](https://en.cppreference.com/w/c)
