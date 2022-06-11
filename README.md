@@ -8,6 +8,7 @@
 
 project list
 
-social
+## Connect with me
+![flutter](https://img.shields.io/badge/Linkedin-0c0c0c?style=for-the-badge&logo=linkedin&logoColor=47C5FB)
 
 laung
