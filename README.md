@@ -9,7 +9,8 @@
 project list
 
 ## Connect with me
-[![LinkedIn](https://img.shields.io/badge/Linkedin-0c0c0c?style=for-the-badge&logo=linkedin&logoColor=47C5FB)](https://www.linkedin.com/in/iomanetic/)
-[![Instagram](https://img.shields.io/badge/Instagram-0c0c0c?style=for-the-badge&logo=instagram&logoColor=47C5FB)](https://www.instagram.com/valiev.tyt/)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-0c0c0c?style=for-the-badge&logo=linkedin&logoColor=0b65c2)](https://www.linkedin.com/in/iomanetic/)
+[![Instagram](https://img.shields.io/badge/Instagram-0c0c0c?style=for-the-badge&logo=instagram&logoColor=ed4956)](https://www.instagram.com/valiev.tyt/)
+[![Telegram](https://img.shields.io/badge/telegram-0c0c0c?style=for-the-badge&logo=telegram&logoColor=ed4956)](https://t.me/iomanetic)
 
 laung
