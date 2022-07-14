@@ -1,10 +1,9 @@
 ![Header](https://github.com/iomanetic/iomanetic/blob/master/assets/images/header.png)
 
 ## About me
-- My name is Karim and i from Moscow
-- I'm student school 21(ecole 42)
-- I like to read technical books
-- I like write code
+# My name is Karim, i'm student of school 21(ecole 42).
+# I good know <C> language and I'm learning <Java> and <C++> now.
+# in free time I like read a technical books. 
 
 ## Last projects
 - [minishell](https://github.com/iomanetic/Minishell "A simple shell, which repeat the work of bash")
