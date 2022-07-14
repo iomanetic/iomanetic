@@ -2,7 +2,7 @@
 
 ## About me
 - My name is Karim, i'm student of school 21(ecole 42).
-- I good know <C> language and I'm learning <Java> and <C++> now.
+- I good know C language and I'm learning Java and C++ now.
 - in free time I like read a technical books. 
 
 ## Last projects
